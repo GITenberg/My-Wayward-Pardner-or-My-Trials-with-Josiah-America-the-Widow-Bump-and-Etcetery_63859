@@ -1,5 +1,8 @@
 _repo: My-Wayward-Pardner-or-My-Trials-with-Josiah-America-the-Widow-Bump-and-Etcetery_63859
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63859-h/images/cover.jpg
 creator:
   author:
     agent_name: Holley, Marietta
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1194
     wikipedia: https://en.wikipedia.org/wiki/Marietta_Holley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63859#My-Wayward-Pardner-or-My-Trials-with-Josiah-America-the-Widow-Bump-and-Etcetery
 gutenberg_issued: '2020-11-23'
 gutenberg_type: Text
 identifiers:
